@@ -7,11 +7,17 @@ If you're getting started and need assistance or face any bugs, join our active 
 ⚙️ TECH STACK
 
 🔥Next.js
+
 🔥TypeScript
+
 🔥Clerk
+
 🔥getstream
+
 🔥shadcn
+
 🔥Tailwind CSS
+
 
 🔋 FEATURES
 
