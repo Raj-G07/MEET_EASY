@@ -5,6 +5,7 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 30 thousand members. It's a place where people help each other out.
 
 ⚙️ TECH STACK
+
 🔥Next.js
 🔥TypeScript
 🔥Clerk
@@ -13,6 +14,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 🔥Tailwind CSS
 
 🔋 FEATURES
+
 👉 Authentication: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 
 👉 New Meeting: Quickly start a new meeting, configuring camera and microphone settings before joining.
